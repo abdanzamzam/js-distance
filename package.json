@@ -1,0 +1,27 @@
+{
+  "name": "js-distance",
+  "version": "1.0.0",
+  "description": "library node js untuk menghitung jarak antara titik koordinat latitude & longitude.",
+  "main": "js-distance.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwp/js-distance.git"
+  },
+  "keywords": [
+    "geolocation",
+    "latitude",
+    "longitude"
+  ],
+  "author": "michael.wenceslaus@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelwp/js-distance/issues"
+  },
+  "homepage": "https://github.com/michaelwp/js-distance#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
