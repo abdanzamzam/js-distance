@@ -1,4 +1,4 @@
-# go-distance v1.0.0
+# js-distance v1.0.0
 
 Ini adalah package nodejs sederhana untuk menghitung jarak antara dua titik koordinat latitude dan longitude.
 
